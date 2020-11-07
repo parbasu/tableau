@@ -4,7 +4,7 @@ Version: 2020.3
 
 [Tableau Public profile](https://public.tableau.com/profile/parthivbasu).
 
-On GitHub and on Tableau public, you can find my Tableau projects. But only on GitHub I go into the details of the project.
+On GitHub and on Tableau public, you can find my Tableau projects. But only on GitHub do I upload all the visualizations and go into the details of the projects.
 
 I share the workbook along with the data source (.twbx file). I explain how I prepared the data to make it more suitable for Tableau and I also provide a summary of my findings.
 
