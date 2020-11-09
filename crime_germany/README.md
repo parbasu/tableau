@@ -34,15 +34,15 @@ The report broadly contains the following information:
 
 **3.** Section 3.1 contains information about the development of total crime and total crime excluding crimes like unauthorised entry and stay (these are called offences against foreigners' law) over the last 15 years. For certain types of offences we are given information about the percentage share of attempts for the year 2018 and 2019. The geographical distribution of crime by munipality size is also given.
 
-**4.** Section 3.2 contains information about the total number of recorded cases, percentage share of attempts, the total number of suspects, percentage share of suspects by gender, clearence rate, total number of recorded cases and offence rate by state and city for selected offence categories.
+**4.** Section 3.2 contains information about the total number of recorded cases, percentage share of attempts, the total number of suspects, percentage share of suspects that were either male or female, clearence rate, total number of recorded cases and offence rate by state and city for selected offence categories.
 
-**5.** Section 4 contains information about clearence rate, percentage share of cleared-up cases which were committed by hard-drug users, clearence rate by state and city. 
+**5.** Section 4 contains information about the clearence rate, percentage share of cleared-up cases in which the suspects were  hard-drug users, clearence rate by state and city. 
 
 **6.** Section 5 contains information about monetary loss as a result of certain offences.
 
 **7.** Section 6 contains information about the victims, their age, their gender, their nationality, and their relationship with the suspects.
 
-**8.** Section 7 contains information about the suspects, their age, their gender, their nationality, percentage of suspects that were hard drug users.
+**8.** Section 7 contains information about the suspects, their age, their gender, their nationality, and percentage share of suspects that were hard drug users.
 
-**9.** Section 8 is just the glossary. It contains information about how statistics like clearence rate and offence rate are calculated.
+**9.** Section 8 is just the glossary. It contains information about how statistics like clearence rate and offence rate, among other things, are calculated.
 
