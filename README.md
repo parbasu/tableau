@@ -6,7 +6,7 @@ Version: 2020.3
 
 On GitHub and on Tableau public, you can find my Tableau projects. But only on GitHub do I upload all the visualizations and go into the details of the projects.
 
-I share the workbook along with the data source (.twbx file). I explain how I prepared the data to make it more suitable for Tableau and I also provide a summary of my findings.
+I share the workbook along with the data I worked with. I explain how I prepared the data to make it more suitable for Tableau and I also provide a summary of my findings.
 
 The data is not optimized for performance, so you'll experience slow loading times on Tableau Public. Much better to use Tableau desktop, still it is not as fast as I would like it to be. I could optimize performace by reducing the number of records and fields, applying filters, doing calculations in the database rather than in Tableau, and so on. But right now I think it's unnecessary work.
 
