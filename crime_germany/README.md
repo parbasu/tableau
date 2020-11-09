@@ -12,11 +12,11 @@ Note: The data is also available as an Excel spreadsheet but it is too detailed.
 
 The clean raw data is still unusable for Tableau. There are three reasons for this:
 
--1. Different tables which contain the same type of data are not grouped together. For example, one table contains the recorded cases of street crime in different states in Germany and the same information but for violent crime is present in a differnt table. What we would like to see is one table which contains both information with an added offence category column. This allows us to use the category column as a filter.
+1. Different tables which contain the same type of data are not grouped together. For example, one table contains the recorded cases of street crime in different states in Germany and the same information but for violent crime is present in a differnt table. What we would like to see is one table which contains both information with an added offence category column. This allows us to use the category column as a filter.
 
--2. Tableau works best with row-oriented data. But the data in the PDF report is column-oriented, which makes sense as it meant to be read. For example, instead of having separate columns for the year 2019 and 2018, we would like to have a single year column. So I had to do pivot and transpose the tables to bring them into a Tableau-friendly format.
+2. Tableau works best with row-oriented data. But the data in the PDF report is column-oriented, which makes sense as it meant to be read. For example, instead of having separate columns for the year 2019 and 2018, we would like to have a single year column. So I had to do pivot and transpose the tables to bring them into a Tableau-friendly format.
 
--3. In contrast to 1., sometimes a table contains data that really should be on a separate table. 
+3. In contrast to 1., sometimes a table contains data that really should be on a separate table. 
 
 
 
