@@ -48,4 +48,4 @@ The report broadly contains the following information:
 
 ---
 
-As you can see, there is a lot of data in the report. The visualizations I created use tables only from section 3.2. I haven't provided a summary of my findings because based on the two visualizations, the type of conclusions you can make are pretty straigtforward. They are interesting nonetheless. For example, the clearence rate for street crime and thefts in Berlin is extremely low at 11.8% and 22.3% respectively. So if you get pickpocketed or your bike gets stolen, you are not getting your back!
+As you can see, there is a lot of data in the report. The visualizations I created use tables only from section 3.2. I haven't provided a summary of my findings because based on the two visualizations, the type of conclusions you can make are pretty straigtforward. They are interesting nonetheless. For example, the clearence rate for street crime and thefts in Berlin is extremely low at 11.8% and 22.3% respectively. So if you get pickpocketed or your bike gets stolen, you are not getting your stuff back!
