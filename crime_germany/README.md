@@ -16,7 +16,11 @@ The clean raw data is still unusable for Tableau. There are three reasons for th
 
 2. Tableau works best with row-oriented data. But the data in the PDF report is column-oriented, which makes sense as it meant to be read. For example, instead of having separate columns for the year 2019 and 2018, we would like to have a single year column. So I had to do pivot and transpose the tables to bring them into a Tableau-friendly format.
 
-3. In contrast to 1., sometimes a table contains data that really should be on a separate table. In our case, this is mainly because the data is 
+3. In contrast to 1., sometimes a table contains data that really should be on a separate table. In our case, this is mainly because the data is only shown for the year 2019. For example, the recorded cases are only shown for the year 2019, but offence rate is shown for all the way back to 2012.
+
+End result of 1. can be found [here](https://github.com/parbasu/tableau/blob/main/crime_germany/pcs.xlsx).
+
+For the visualizations [Crime Statistics Germany by City](https://public.tableau.com/views/CrimeStatisticsGermanybyCity/crimestatsgermanycity?:language=en-GB&:display_count=y&:origin=viz_share_link) and [Crime Statistics Germany by City](https://public.tableau.com/views/CrimeStatisticsGermanybyState/crimestatsstategermany?:language=en-GB&:display_count=y&:origin=viz_share_link), the end result of 1.,2. and 3. can be found at [here](https://github.com/parbasu/tableau/blob/main/crime_germany/crime_stats_germany_city.xlsx) and [here](https://github.com/parbasu/tableau/blob/main/crime_germany/crime_stats_germany_state.xlsx).
 
 
 
