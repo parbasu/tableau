@@ -48,4 +48,4 @@ The report broadly contains the following information:
 
 ---
 
-As you can see, there is a lot of data in the report. The visualizations I created use tables only from section 3.1.
+As you can see, there is a lot of data in the report. The visualizations I created use tables only from section 3.2.
