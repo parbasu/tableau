@@ -22,6 +22,8 @@ The end result of **1.** can be found [here](https://github.com/parbasu/tableau/
 
 For the visualizations [Crime Statistics Germany by City](https://public.tableau.com/views/CrimeStatisticsGermanybyCity/crimestatsgermanycity?:language=en-GB&:display_count=y&:origin=viz_share_link) and [Crime Statistics Germany by State](https://public.tableau.com/views/CrimeStatisticsGermanybyState/crimestatsstategermany?:language=en-GB&:display_count=y&:origin=viz_share_link), the end result of **1.**,**2.** and **3.** can be found [here](https://github.com/parbasu/tableau/blob/main/crime_germany/crime_stats_germany_city.xlsx) and [here](https://github.com/parbasu/tableau/blob/main/crime_germany/crime_stats_germany_state.xlsx) respectively.
 
+---
+
 **Notes on the [Police Crime Statistics Federal Republic of Germany Report 2019](https://github.com/parbasu/tableau/blob/main/crime_germany/pks2019_englisch.pdf)**
 
 
