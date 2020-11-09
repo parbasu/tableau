@@ -30,13 +30,13 @@ The report broadly contains the following information:
 
 **1.** Section 1 contains information about how the data is recorded, what type of data is not recorded, and a word of caution about making certain types of conclusions from the data.
 
-**2.** Section 2 contains information about the total number of recorded cases (which includes attempts), the number of German and non-German suspects and the clearence rate for the year 2018 and 2019 for certain types of offences.
+**2.** Section 2 contains information about the total number of recorded cases (which includes attempts), the number of German and non-German suspects and the clearance rate for the year 2018 and 2019 for certain types of offences.
 
-**3.** Section 3.1 contains information about the development of total crime and total crime excluding crimes like unauthorised entry and stay (these are called offences against foreigners' law) over the last 15 years. For certain types of offences we are given information about the percentage share of attempts for the year 2018 and 2019. The geographical distribution of crime by munipality size is also given.
+**3.** Section 3.1 contains information about the development of total crime and total crime excluding crimes like unauthorised entry and stay (these are called offences against foreigners' law) over the last 15 years. For certain types of offences we are given information about the percentage share of attempts for the year 2018 and 2019. The geographical distribution of crime by municipality size is also given.
 
-**4.** Section 3.2 contains information about the total number of recorded cases, percentage share of attempts, the total number of suspects, percentage share of suspects that were either male or female, clearence rate, total number of recorded cases and offence rate by state and city for selected offence categories.
+**4.** Section 3.2 contains information about the total number of recorded cases, percentage share of attempts, the total number of suspects, percentage share of suspects that were either male or female, clearance rate, total number of recorded cases and offence rate by state and city for selected offence categories.
 
-**5.** Section 4 contains information about the clearence rate, percentage share of cleared-up cases in which the suspects were  hard-drug users, clearence rate by state and city. 
+**5.** Section 4 contains information about the clearance rate, percentage share of cleared-up cases in which the suspects were  hard-drug users, clearance rate by state and city. 
 
 **6.** Section 5 contains information about monetary loss as a result of certain offences.
 
@@ -44,5 +44,5 @@ The report broadly contains the following information:
 
 **8.** Section 7 contains information about the suspects, their age, their gender, their nationality, and percentage share of suspects that were hard drug users.
 
-**9.** Section 8 is just the glossary. It contains information about how statistics like clearence rate and offence rate, among other things, are calculated.
+**9.** Section 8 is just the glossary. It contains information about how statistics like clearance rate and offence rate, among other things, are calculated.
 
