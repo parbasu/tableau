@@ -47,3 +47,5 @@ The report broadly contains the following information:
 **9.** Section 8 is just the glossary. It contains information about how statistics like clearance rate and offence rate, among other things, are calculated.
 
 ---
+
+As you can see, there is a lot of data in the report. The visualizations I created use tables only from section 3.1.
