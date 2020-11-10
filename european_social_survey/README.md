@@ -81,7 +81,7 @@ Now back to the dialogue boxes.
 
 5. Add the analysis weight to the right dialogue box and click ok. Now you will get a weighted table. ![](ESS_screenshot_3.png)
 
-You'll notice that below the table there is a scale icon ⚖️ and right next to which it says weight is on. You will also notice that N is now larger for countries with higher population. If we took the weight off, we will see similar numbers for N across different European countries.
+You'll notice that below the table there is a scale icon ⚖️, right next to which it says weight is on. You will also notice that N is now larger for countries with higher population. If we took the weight off, we will see similar numbers for N across different European countries.
 
 By clicking on the floppy disc icon at the top right, you can download the data in various file formats. You can also visualize the data by clicking on the bar chart icon.
 
