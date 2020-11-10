@@ -96,6 +96,8 @@ In most cases you will use one of two weights:
 
 - When you are looking at two or more countries' data together, we need to in addition use the population weights. This is called the **analysis weight**. 
 
+--
+
 Now back to the dialogue boxes.
 
 5. Add the analysis weight to the right dialogue box and click ok. Now you will get a weighted table. ![](ESS_screenshot_3.png)
