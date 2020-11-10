@@ -53,7 +53,7 @@ Say we want to find out how interested people are in politics across various Eur
 2. Under Variable Description, click on Politics and then click on How interested in Politics and a little box will appear with the options Add to row, Add to column, Use as filter and Add as measure. We will choose Add to row. You will be asked to register yourself. After you have completed the registration you will see the following table. ![](ESS_screenshot_1.png)
 
 3. But this table shows the result for all of Europe, so we are going add the variable Country to 
-column. Now you will see the following table. ![](ESS_screenshot_1.png)
+column. Now you will see the following table. ![](ESS_screenshot_2.png)
 
 4. The data is still unweighted. You need to add weights. At the top right next to ANALYSIS, you will see a scale symbol ⚖️, if you hover over it, the word weight appears. Click on it! A dialogue box will appear. Let's take a short detour to learn about weighting your data.
 
