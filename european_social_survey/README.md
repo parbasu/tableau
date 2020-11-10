@@ -11,11 +11,17 @@ How confident are you in your own ability to
 participate in politics?
 
 Not at all confident  1
+
 A little confident    2
+
 Quite confident       3
+
 Very confident        4 
+
 Completely confident  5
+
 (Refusal)             7
+
 (Don’t know)          8.
 
 The survey runs every two years and the first one was conducted in 2002. As of now, 9 rounds have been completed, the most recent one took place in 2018.
