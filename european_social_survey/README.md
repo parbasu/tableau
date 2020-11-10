@@ -35,7 +35,7 @@ All the data is freely available for non-commercial use. You just have to do a q
 
 - The fieldwork is conducted face to face by interviewers and it lasts approximately an hour. It is conducted in the local language and it is mainly computer-assisted.
 
-- Questionnaires are translated for *functional equivalence*. That is, they are translated in such a way that the questions mean the same in every single country. This is in contrast to the questions being only *literally equivalent*. The source questionnaire is written in English, then local experts translate that questionnaire, so it has, as much as possible, the same meaning in every country as the English original.
+- Questionnaires are translated for *functional equivalence*. That is, they are translated in such a way that the questions mean the same in every single country. This is in contrast to the questions being only *literally equivalent*. The source questionnaire is written in English, then local experts translate that questionnaire, so it has the same meaning in every country as the English original (as far as that is possible).
 
 - There is a very strong focus on standardizing the data collection and interviewing process. This is done through training. The sampling procedure must be random probability sampling. Lots of interviewer instructions and training is given in order to standardize their approach in terms of asking the question exactly as they appear in the questionnaire and not paraphrasing or interpreting the questions for respondents. 
 
@@ -65,7 +65,7 @@ Core topics in all rounds
 
 On the European Social Survey website, you will find the online analysis tool under Data and Documentation. The online analysis tool is run by the Norwegian Centre for Research Data (NSD). 
 
-Say we want to find out how interested people are in politics across various European countries in the year 2018. Proceed as follows:
+Say we want to find out how interested people were in politics across various European countries in the year 2018. Proceed as follows:
 
 1. Click on ESS9-2018. Click the plus sign next to Variable Description. Now click on TABULATION, where you will be presented with an empty table.
 
