@@ -55,7 +55,7 @@ Say we want to find out how interested people are in politics across various Eur
 3. But this table shows the result for all of Europe, so we are going add the variable Country to 
 column. Now you will see the following table. ![](ESS_screenshot_1.png)
 
-4. The data is still unweighted. You need to add weights. At the top right next to ANALYSIS, you will see a scale symbol ⚖️, if you hover over it, the word weight appears. Click on it! A dialogue box will appear.
+4. The data is still unweighted. You need to add weights. At the top right next to ANALYSIS, you will see a scale symbol ⚖️, if you hover over it, the word weight appears. Click on it! A dialogue box will appear. Let's take a short detour to learn about weighting your data.
 
 ## Weighting your data
 
@@ -77,7 +77,9 @@ In most cases you will use one of two weights:
 
 - When you are looking at two or more countries' data together, we need to in addition use the population weights. This is called the **analysis weight**. 
 
-5. Now back to the dialogue boxes. Add the analysis weight to the right dialogue box and click ok. Now you will get a weighted table. ![](ESS_screenshot_3.png)
+Now back to the dialogue boxes.
+
+5. Add the analysis weight to the right dialogue box and click ok. Now you will get a weighted table. ![](ESS_screenshot_3.png)
 
 You'll notice that below the table there is a scale icon ⚖️ and right next to which it says weight is on. You will also notice that N is now larger for countries with higher population. If we took the weight off, we will see similar numbers for N across different European countries.
 
