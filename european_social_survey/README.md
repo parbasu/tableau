@@ -5,7 +5,20 @@
 The European Social Survey (ESS) collects survey data on social attitudes across over
 30 European nations.
 
-It is used to track how attitudes have changed over time and how they vary between countries in Europe. It runs every two years and the first survey was conducted in 2002. As of now, 9 rounds have been completed, the most recent one took place in 2018.
+It is used to track how attitudes have changed over time and how they vary between countries in Europe. A typical example of a question is the following:
+
+How confident are you in your own ability to
+participate in politics?
+
+Not at all confident  1
+A little confident    2
+Quite confident       3
+Very confident        4 
+Completely confident  5
+(Refusal)             7
+(Don’t know)          8.
+
+The survey runs every two years and the first one was conducted in 2002. As of now, 9 rounds have been completed, the most recent one took place in 2018.
 A list of participating countries can be found [here](https://www.europeansocialsurvey.org/about/participating_countries.html).
 
 All the data is freely available for non-commercial use. You just have to do a quick email registration. I'll get into that in a bit.
@@ -89,7 +102,7 @@ Suppose we want to find out how interested young people are in politics. We can 
 
 If you want to do a much more substantial analysis yourself, instead of using the online analysis tool, check out the Data and Documentation section of the European Social Survey website.
 
-The list of questions asked can be found under Data and Documentation by Round/Year. Also check out the data protocol, it tells how you the data is structured. This is very important for data analysts.
+The list of questions asked can be found under Data and Documentation by Round/Year. Also check out the data protocol, it tells you how the data is structured. This is very important for data analysts.
 
 References
 
