@@ -96,7 +96,7 @@ In most cases you will use one of two weights:
 
 - When you are looking at two or more countries' data together, we need to in addition use the population weights. This is called the **analysis weight**. 
 
---
+##
 
 Now back to the dialogue boxes.
 
