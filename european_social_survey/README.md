@@ -50,10 +50,10 @@ Say we want to find out how interested people are in politics across various Eur
 
 1. Click on ESS9-2018. Click the plus sign next to Variable Description. Now click on TABULATION, where you will be presented with an empty table.
 
-2. Under Variable Description, click on Politics and then click on How interested in Politics and a little box will appear with options Add to row, Add to column, Use as filter and Add as measure. We will choose Add to row. You will be asked to register yourself. After you have completed the registration you will see the following table [](ESS_screenshot_1.png)
+2. Under Variable Description, click on Politics and then click on How interested in Politics and a little box will appear with options Add to row, Add to column, Use as filter and Add as measure. We will choose Add to row. You will be asked to register yourself. After you have completed the registration you will see the following table ![](ESS_screenshot_1.png)
 
 3. But this table shows the result for all of Europe, so we are going add Country to 
-column. Now you will see the following table [](ESS_screenshot_1.png)
+column. Now you will see the following table ![](ESS_screenshot_1.png)
 
 4. The data is still unweighted. You need to add weights. At the top-right next to ANALYSIS, you will see a scale symbol ⚖️, if you hover over it, the word weight appears. Click on it! A dialogue box will appear.
 
@@ -80,7 +80,7 @@ In most cases you will use one of two weights:
 
 Now back to the dialogue boxes. Add the analysis weight to the right dialogue box and click ok.
 
-Now you will get a weighted table. [](ESS_screenshot_3.png)
+Now you will get a weighted table. ![](ESS_screenshot_3.png)
 
 You'll notice below the table there is a scale icon ⚖️ and right next to which it says weight is on. You will also notice that N is now larger countries with higher population. If we took the weight off, we will see similar numbers for N across different European countries.
 
