@@ -10,7 +10,7 @@ A list of participating countries can be found [here] (https://www.europeansocia
 
 All the data is freely available for non-commercial use. You just have to do a quick email registration. I'll get into that in a bit.
 
-# Methodology
+## Methodology
 
 - The survey uses random probability sampling. 
 
@@ -25,7 +25,7 @@ All the data is freely available for non-commercial use. You just have to do a q
 - Consistent data format across all countries. So the variables under consideration are in exactly the same format across different countries.
 
 
-# Questionnairre
+## Questionnairre
 
 Core topics in all rounds
 
@@ -42,7 +42,7 @@ Core topics in all rounds
 - subjective wellbeing
 - socio-demographics
 
-# How to use and asccess the data
+## How to use and asccess the data
 
 On the European Social Survey website, you will find the online analysis tool under Data and Documentation. The online analysis tool is run by the Norwegian Centre for Research Data (NSD). 
 
@@ -50,14 +50,14 @@ Say we want to find out how interested people are in politics across various Eur
 
 1. Click on ESS9-2018. Click the plus sign next to Variable Description. Now click on TABULATION, where you will be presented with an empty table.
 
-2. Under Variable Description, click on Politics and then click on How interested in Politics and a little box will appear with options Add to row, Add to column, Use as filter and Add as measure. We will choose Add to row. You will be asked to register yourself. After you have completed the registration you will see the following table [1]
+2. Under Variable Description, click on Politics and then click on How interested in Politics and a little box will appear with options Add to row, Add to column, Use as filter and Add as measure. We will choose Add to row. You will be asked to register yourself. After you have completed the registration you will see the following table [](ESS_screenshot_1.png)
 
 3. But this table shows the result for all of Europe, so we are going add Country to 
-column. Now you will see the following table [2]()
+column. Now you will see the following table [](ESS_screenshot_1.png)
 
 4. The data is still unweighted. You need to add weights. At the top-right next to ANALYSIS, you will see a scale symbol ⚖️, if you hover over it, the word weight appears. Click on it! A dialogue box will appear.
 
-# Weighting your data
+## Weighting your data
 
 We usually need to weight data to 'correct' the profile of the respondents so it reflects
 the population
@@ -80,7 +80,9 @@ In most cases you will use one of two weights:
 
 Now back to the dialogue boxes. Add the analysis weight to the right dialogue box and click ok.
 
-Now you will get a weighted table. You'll notice below the table there is the scale icon ⚖️ and right next to which it says weight is on. You will also notice that N is now larger countries with higher population. If we took the weight off, we will see similar numbers for N across different European countries.
+Now you will get a weighted table. [](ESS_screenshot_3.png)
+
+You'll notice below the table there is a scale icon ⚖️ and right next to which it says weight is on. You will also notice that N is now larger countries with higher population. If we took the weight off, we will see similar numbers for N across different European countries.
 
 By clicking on the floppy disc icon at the top right, you can download the data in various file formats. You can also visualize the data by clicking on the bar chart icon.
 
