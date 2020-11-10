@@ -110,7 +110,7 @@ If you want to do a much more substantial analysis yourself, instead of using th
 
 The list of questions asked can be found under Data and Documentation by Round/Year. Also check out the data protocol, it tells you how the data is structured. This is very important for data analysts.
 
-References
+**References**
 
 - 9th May 2018. Webinar: Introduction to accessing and using European Social Survey data. UK Data Service. 
 
